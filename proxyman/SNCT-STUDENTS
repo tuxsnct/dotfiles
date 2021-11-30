@@ -1,0 +1,25 @@
+# Proxyman profile : SNCT-STUDENTS
+
+# Example: 127.0.0.1
+http_host=wpad.ca.suzuka-ct.ac.jp
+
+# Example: 8080
+http_port=8080
+
+# Use same values for https and ftp
+use_same=y
+
+# use auth is 'y' or 'n', and provide username and password
+use_auth=n
+username=
+password=
+
+# If use same is 'y', no need of these
+https_host=wpad.ca.suzuka-ct.ac.jp
+https_port=8080
+ftp_host=wpad.ca.suzuka-ct.ac.jp
+ftp_port=8080
+
+# URLs that should be excluded from proxying
+no_proxy=localhost,127.0.0.1,192.168.1.1,::1,*.local
+

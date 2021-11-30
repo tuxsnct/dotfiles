@@ -1,0 +1,7 @@
+[Proxy Settings]
+NoProxyFor=localhost,127.0.0.1,192.168.1.1,::1,*.local
+ProxyType=0
+ftpProxy=ftp://wpad.ca.suzuka-ct.ac.jp 8080
+httpProxy=http://wpad.ca.suzuka-ct.ac.jp 8080
+httpsProxy=http://wpad.ca.suzuka-ct.ac.jp 8080
+socksProxy=

@@ -1,0 +1,10 @@
+[core]
+	autocrlf = false
+[user]
+	name = Hideki Tanaka
+	email = work@tuxsnct.com
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
