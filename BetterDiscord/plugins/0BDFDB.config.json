@@ -1,0 +1,19 @@
+{
+	"changeLogs": {
+		"CharCounter": "1.5.6",
+		"GameActivityToggle": "1.0.4",
+		"Translator": "2.3.2"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "5b2f229315b76aecdcfd79938193b9ebe0407b41",
+		"0BDFDB.raw.css": "6bb82eb9f45d2d68a03ad2d3e21dcf35a5e2e3ee"
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "BetterRoleColors": true,
+    "BetterVolume": true,
+    "CallTimeCounter": true,
+    "CharCounter": true,
+    "DoubleClickToEdit": true,
+    "GameActivityToggle": true,
+    "HideChannels": true,
+    "HideDisabledEmojis": true,
+    "InvisibleTyping": true,
+    "PermissionsViewer": true,
+    "ReadAllNotificationsButton": true,
+    "ServerCounter": true,
+    "ShowAllActivities": true,
+    "Translator": true,
+    "TypingIndicator": true,
+    "TypingUsersAvatars": true,
+    "WhoReacted": true,
+    "ZeresPluginLibrary": true,
+    "BDFDB": true
+}
